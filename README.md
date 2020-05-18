@@ -7,7 +7,7 @@ Currently, there is no real objective aside from going around and "eating" rando
 
 The player's location can be tracked using a mini-map in the top right hand corner and the player can boost their speed periodically by clicking on the monster.
 
-Live demo: [https://peter.ee/show/boats/](https://peter.ee/show/boats/)
+**Demo:** [https://peterwetherall.github.io/under-the-boats/](https://peterwetherall.github.io/under-the-boats/)
 
 ### Future ideas 💡
 
